@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TD2devmobile</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_earth">Earth</string>
+    <string name="title_animation">Animation</string>
+
+    <string name="fade">fondu</string>
+    <string name="scale">rétrécissement</string>
+    <string name="appear">réapparition</string>
+    <string name="tv_off">tv off</string>
+    <string name="fade_and_scale">fondu + agrandissement</string>
+    <string name="out">sortie</string>
+    <string name="random_number">random number</string>
 </resources>
